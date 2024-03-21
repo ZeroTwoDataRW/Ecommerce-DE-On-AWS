@@ -20,7 +20,7 @@ A DS Blueprint will always consist of five phases:
 * __Visualize__: the representation of data through use of common graphics, such as charts, plots, infographics, and even animations by software tools such as (Tabluea, PowerBI, etc.)
 
 
-# Contents
+# Table of Contents
 
 - [The Dataset](#the-dataset)
 - [Platform Design](#platform-design)
