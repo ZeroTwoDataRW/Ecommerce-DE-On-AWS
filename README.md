@@ -5,7 +5,7 @@ This project was a means to test my data engineering knowledge through the plann
 
 ## What Is the Purpose of Data Engineering?
 
-Data Engineering is the process of making data usable for the business, by making it accessible for "data customers," such as BI Analysts, Data Analysts, Data Scientists, etc., who will ultimately analyze this data for business needs. Data customers are only able to access & analyze data, after a data engineer has built a system in which they can retrieve the data from. These systems, specifically referred to as "data pipelines," are an end-to-end process that ingest raw(unorganized)/organized data, process it, prepare it, store it, and finally visualize the data for the customers to use. I found that the best way to begin designing pipelines, is to begin by creating a blueprint. Below is a blueprint for which data pipelines can be built upon.
+Data Engineering is the process of making data usable for a business, by making it accessible for "data customers," such as BI Analysts, Data Analysts, Data Scientists, etc., who will ultimately analyze this data for business needs. Data customers are only able to access & analyze data, after a data engineer has built a system in which they can retrieve the data from. These systems, specifically referred to as "data pipelines," are an end-to-end process that ingest raw unorganized/organized data, process it, prepare it, store it, and finally visualize the data for the customers to use. I found that the best way to begin designing pipelines, is to begin by creating a blueprint. Below is a blueprint template for which data pipelines can be built upon.
 
 ![DS Blueprint](https://user-images.githubusercontent.com/74563990/159792405-7195ed58-7244-44a3-8b55-9719ba720d25.jpg)
 
