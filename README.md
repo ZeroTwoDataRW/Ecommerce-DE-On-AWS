@@ -61,6 +61,8 @@ The data can either be stored in a relational database or a NoSQL database. If w
 
 <img src="https://user-images.githubusercontent.com/74563990/161163691-c65f0d7d-48d0-4a70-992f-2de6086070e0.png" width="600"/>
 
+## Data Model
+
 <img src="https://user-images.githubusercontent.com/74563990/161163550-a3cc584f-27d9-4ad8-a4f8-314ca9b48a33.png" width="350"/>
 
 <img src="https://user-images.githubusercontent.com/74563990/161163569-a2131afe-32af-4bff-8c54-94c2e88dca83.png" width="350"/>
