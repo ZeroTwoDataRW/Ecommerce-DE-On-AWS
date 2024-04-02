@@ -73,7 +73,7 @@ Presented below is the envisioned structure of the data I aim to achieve.
 # Platform Design
 
 ## Selecting the Tools
-In this section, we will look at the main components of our data pipeline, which model our DS Blueprint listed above.
+In this section, we will look at the main components of our data pipeline, which model our DS Blueprint.
 <img src="https://user-images.githubusercontent.com/74563990/159989202-57605a99-9fe8-4e85-9958-135a6cd5604d.jpg" width="300"/>
 
 ## Client
